@@ -1,16 +1,18 @@
-Full Stack Developer con experiencia en la industria Tech demostrando habilidades bajo presión y tiempos ajustados. Experto en javascript, CSS, HTML, Node Js, Express, React, Redux, PostgreSQL, NextJs, Typescript, colaborativo y creativo con fuerte capacidad de resolución de problemas y posición para aprender.
+Desarrollador backend con experiencia en proyectos productivos para empresas de distintos rubros (Basso, Orbis, Papelera, Bolsapel, Friolatina, A2, Palou, Menara, Lesko, Anastacio), trabajando sobre Protheus ERP.
 
-Ultima experiencia tech: dic. 2023 - ene. 2024 · 5 semanas || España · Híbrido
+Especializado en ADVPL y SQL, con uso complementario de JavaScript y TypeScript para integraciones y servicios.
+Participación en el ciclo completo de desarrollo: análisis técnico, diseño, implementación, testing y puesta en producción, con foco en calidad, escalabilidad y reglas de negocio.
 
+Responsabilidades clave:
 
-Hice un proyecto para una empresa, consistia en una aplicación web responsive para reservar canchas y jugar con amigos, este proyecto fue llevado en un equipo de 4 personas.
-Link Deploy: https://matchingweb.onrender.com
+Desarrollo de rutinas y módulos backend en ADVPL sobre Protheus.
 
-Tecnologías usadas en el proyecto:
+Diseño y consumo de APIs REST para integraciones con sistemas externos.
 
-Front: ReactJs, Redux, CSS, HTML, MUI.
-Backend: NodeJs, Sequelize, Express.
-Base de Datos: PostgreSQL.
+Modelado de datos y optimización de consultas SQL.
 
+Automatización de procesos y mejoras operativas.
 
-Actualmente, en busca de trabajo como desarrollador full stack.
+Implementación de reglas de negocio en contextos industriales, comerciales, logísticos y financieros.
+
+Trabajo colaborativo en equipos ágiles, con autonomía y cumplimiento de objetivos.
